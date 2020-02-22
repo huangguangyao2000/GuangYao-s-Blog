@@ -1,1 +1,2 @@
-# GuangYao-s-Blog
+# Initial page
+
