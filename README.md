@@ -2,9 +2,6 @@
 
 ## 
 
-## Table of contents
-
-* [Initial page](README.md)
 
 ### JavaScript
 
@@ -27,4 +24,5 @@
 
 * [试说React源码](try-to-learn-react/shi-shuo-react-yuan-ma/README.md)
   * [ReactBaseClass.js](try-to-learn-react/shi-shuo-react-yuan-ma/reactbaseclass.js.md)
+### HTTP <a id="http"></a>
 
