@@ -95,7 +95,12 @@ pureComponentPrototype.isPureReactComponent = true;
 ```
 
 * 仅做对象的浅层比较
+* 自带shouldComponentUpdate来优化更新机制
 * 若赋予React组件相同的props和state，render函数会渲染相同内容。——此时使用PureComponent更方便
+* ComponentDummy继承了Component的原型，为减少内存损耗，没有直接实例化Component实例来让pureComponent继承，而通过ComponentDummy的桥梁来继承。
+* 用Object.assign\(\)浅拷贝的方式将Component原型上的方法拷贝至pureComponent中，避免了原型链查找
+
+![](../../.gitbook/assets/wei-ming-ming-tu-biao-2.svg)
 
 
 
