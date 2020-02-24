@@ -4,6 +4,7 @@
 
 ## JavaScript
 
+* [趣说JS-原型及原型链](javascript/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
 * [趣说Js——事件循环](javascript/qu-shuo-js-shi-jian-xun-huan.md)
 
 ## 细节之处见功夫
