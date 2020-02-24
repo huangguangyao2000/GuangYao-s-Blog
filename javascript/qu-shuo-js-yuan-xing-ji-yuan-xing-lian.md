@@ -1,4 +1,4 @@
-# 趣说JS-原型及原型链
+# 趣说JS——原型及原型链
 
 ## 创建对象
 
@@ -34,4 +34,6 @@ console.log(person.name);
 ![](../.gitbook/assets/bu-huo%20%282%29.JPG)
 
 ## 原型链
+
+![](../.gitbook/assets/untitled-diagram.svg)
 
