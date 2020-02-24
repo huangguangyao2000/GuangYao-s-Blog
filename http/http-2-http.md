@@ -37,7 +37,7 @@ Content-Type:text/html
 
 ## HTTP 是不保存状态的协议
 
-* 无状态\(stateless\)协议,协议自身不对请求和响应之间的通信状态进行保存,不做持久化处理
+* **无状态**\(stateless\)协议,协议自身不对请求和响应之间的通信状态进行保存,不做**持久化处理**
 * 现此特性成了约束,用cookies来解决此问题
 
 ## 请求 URI 定位资源
@@ -101,10 +101,47 @@ OPTIONS * HTTP/1.1
 
 ### 持久连接
 
-**HTTP/1.1** 和一部分的 **HTTP/1.0** 想出了**持久连接**（HTTP Persistent Connections，也称为 HTTP keep-alive 或 HTTP connection reuse）
+**HTTP/1.1** 和部分 **HTTP/1.0 有持久连接**（HTTP keep-alive）
 
-* 特点是，只要任意一端没有明确提出断开连接，则保持 TCP 连接状态。
-* **在 HTTP/1.1 中，所有的连接默认都是持久连接**，但在 HTTP/1.0 内并未标准化。
+* 任意一端没有断开则保持连接。
+* **HTTP/1.1 默认持久连接**，但HTTP/1.0 内未标准化。
 
+### 管线化——（pipelining）
 
+**并行发送**请求
+
+## Cookie 的状态管理
+
+在请求和响应报文中写入 Cookie 信息来控制客户端的状态
+
+* 响应报文Set-Cookie的首部字段信息，通知客户端保存Cookie。下次请求报文会加入Cookie值，然后服务器检查Cookie来源，对比服务器上的信息，得到状态信息。
+
+### 交互场景
+
+1. 请求报文（没有 Cookie 信息的状态）
+
+   ```text
+   GET /reader/ HTTP/1.1
+   Host: hackr.jp
+   ```
+
+2. 首部字段内没有Cookie的相关信息
+3. 响应报文（服务器端生成 Cookie 信息）
+
+   ```text
+   HTTP/1.1 200 OK
+   Date: Thu, 12 Jul 2012 07:12:20 GMT
+   Server: Apache
+   ＜Set-Cookie: sid=1342077140226724; path=/; expires=Wed,
+   10-Oct-12 07:12:20 GMT＞
+   Content-Type: text/plain; charset=UTF-8
+   ```
+
+4. 请求报文（自动发送保存着的 Cookie 信息）
+
+   ```text
+   GET /image/ HTTP/1.1
+   Host: hackr.jp
+   Cookie: sid=1342077140226724
+   ```
 
