@@ -4,6 +4,7 @@
 
 ## JavaScript
 
+* [Untitled](javascript/untitled.md)
 * [趣说JS——原型及原型链](javascript/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
 * [趣说JS——事件循环](javascript/qu-shuo-js-shi-jian-xun-huan.md)
 
@@ -23,6 +24,7 @@
 ## 试说React源码 <a id="try-to-learn-react"></a>
 
 * [试说React源码](try-to-learn-react/shi-shuo-react-yuan-ma/README.md)
+  * [ReactChildren.js](try-to-learn-react/shi-shuo-react-yuan-ma/reactchildren.js.md)
   * [ReactBaseClass.js](try-to-learn-react/shi-shuo-react-yuan-ma/reactbaseclass.js.md)
 
 ## HTTP
