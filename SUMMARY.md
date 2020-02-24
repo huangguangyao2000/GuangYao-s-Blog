@@ -26,5 +26,6 @@
 
 ## HTTP
 
-* [HTTP-1](http/http-1.md)
+* [HTTP-1-Web-and-Network-foundation](http/http-1.md)
+* [HTTP-2-HTTP](http/http-2-http.md)
 
