@@ -90,13 +90,43 @@ video元素支持三种视频格式——Ogg，MPEG4，WebM
 
 数学标记语言，是一种基于XML（标准通用标记语言的子集）的标准
 
-## 拖放
+## &lt;author&gt;
 
-### 元素设为可拖动
+播放音频文件
 
-```text
-<img src="image.png">
+| audio/mpeg |  |
+| :--- | :--- |
+| Ogg | audio/ogg |
+| Wav | audio/wav |
+| MP3 | audio/mpeg |
+
+## 表单元素
+
+* &lt;datalist&gt;
+* &lt;keygen&gt;
+* &lt;output&gt;
+
+### &lt;datalist&gt; 
+
+输入域的选项列表
+
+```markup
+<datalist id="browsers">
+  <option value="Internet Explorer">
+  <option value="Firefox">
+  <option value="Chrome">
+  <option value="Opera">
+  <option value="Safari">
+</datalist>
 ```
 
-### ondragstart 和 setData\(\)
+![](../.gitbook/assets/bu-huo%20%283%29.JPG)
+
+### &lt;keygen&gt; 
+
+验证用户，表单的密钥对生成器字段。提交表单时，会生成两个键，一个是私钥，一个公钥。
+
+### &lt;output&gt;
+
+用于不同类型的输出，比如计算或脚本输出
 

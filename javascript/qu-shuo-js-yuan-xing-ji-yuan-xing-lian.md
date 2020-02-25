@@ -25,7 +25,7 @@ console.log(person.name);
 
 原型都有一个constructor属性指向关联的构造函数
 
-![](../.gitbook/assets/bu-huo%20%283%29.JPG)
+![](../.gitbook/assets/bu-huo%20%284%29.JPG)
 
 ## 实例属性的查找
 
