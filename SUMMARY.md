@@ -34,6 +34,7 @@
 * [HTTP-3-parsing-HTTP-messages](http/http-3.md)
 * [HTTP-4-status-codes](http/http-4-status-codes.md)
 * [HTTP-5-Web servers that collaborate with HTTP](http/http-5-web-servers-that-collaborate-with-http.md)
+* [HTTP6-HTTP首部](http/http6http-shou-bu.md)
 
 ## 项目问题
 
