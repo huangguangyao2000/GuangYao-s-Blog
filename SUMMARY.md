@@ -16,6 +16,7 @@
 ## 杂学细说 <a id="other-knowledge"></a>
 
 * [前缀、中缀、后缀表达式](other-knowledge/qian-zhui-zhong-zhui-hou-zhui-biao-da-shi.md)
+* [各种问题](other-knowledge/ge-zhong-wen-ti.md)
 
 ## HTML
 
