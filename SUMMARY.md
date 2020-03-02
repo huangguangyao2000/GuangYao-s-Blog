@@ -17,6 +17,7 @@
 
 * [前缀、中缀、后缀表达式](other-knowledge/qian-zhui-zhong-zhui-hou-zhui-biao-da-shi.md)
 * [各种问题](other-knowledge/ge-zhong-wen-ti.md)
+* [问答](other-knowledge/wen-da.md)
 
 ## HTML
 
