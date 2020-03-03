@@ -38,6 +38,7 @@
 * [HTTP-5-Web servers that collaborate with HTTP](http/http-5-web-servers-that-collaborate-with-http.md)
 * [HTTP6-HTTP首部](http/http6http-shou-bu.md)
 * [HTTP7-HTTPS](http/http7-https.md)
+* [HTTP8-确认访问用户身份的认证](http/http8-que-ren-fang-wen-yong-hu-shen-fen-de-ren-zheng.md)
 
 ## 项目问题
 
