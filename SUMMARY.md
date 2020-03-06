@@ -23,11 +23,11 @@
 
 * [HTML5新标签](html/html5-xin-biao-qian.md)
 
-## 试说React源码 <a id="try-to-learn-react"></a>
+## 试说源码 <a id="learning"></a>
 
-* [试说React源码](try-to-learn-react/shi-shuo-react-yuan-ma/README.md)
-  * [ReactChildren.js](try-to-learn-react/shi-shuo-react-yuan-ma/reactchildren.js.md)
-  * [ReactBaseClass.js](try-to-learn-react/shi-shuo-react-yuan-ma/reactbaseclass.js.md)
+* [试说React源码](learning/shi-shuo-react-yuan-ma/README.md)
+  * [ReactChildren.js](learning/shi-shuo-react-yuan-ma/reactchildren.js.md)
+  * [ReactBaseClass.js](learning/shi-shuo-react-yuan-ma/reactbaseclass.js.md)
 
 ## HTTP
 
