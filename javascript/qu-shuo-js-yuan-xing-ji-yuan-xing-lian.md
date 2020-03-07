@@ -35,5 +35,5 @@ console.log(person.name);
 
 ## 原型链
 
-![](../.gitbook/assets/untitled-diagram%20%281%29.svg)
+![](../.gitbook/assets/untitled-diagram%20%282%29.svg)
 

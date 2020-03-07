@@ -39,6 +39,7 @@ Content-Type:text/html
 
 * **无状态**\(stateless\)协议,协议自身不对请求和响应之间的通信状态进行保存,不做**持久化处理**
 * 现此特性成了约束,用cookies来解决此问题
+* 默认端口80
 
 ## 请求 URI 定位资源
 
@@ -105,6 +106,11 @@ OPTIONS * HTTP/1.1
 
 * 任意一端没有断开则保持连接。
 * **HTTP/1.1 默认持久连接**，但HTTP/1.0 内未标准化。
+* 目前对于一个域，大多数浏览器可同时支持建立6个连接。
+
+```javascript
+Connection:keep-alive
+```
 
 ### 管线化——（pipelining）
 
