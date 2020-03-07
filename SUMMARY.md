@@ -8,6 +8,7 @@
 * [JS——原型及原型链](javascript/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
 * [JS——事件循环](javascript/qu-shuo-js-shi-jian-xun-huan.md)
 * [JS-BOM](javascript/js-bom.md)
+* [JS-客户端检测](javascript/js-ke-hu-duan-jian-ce.md)
 
 ## 细节之处见功夫
 
