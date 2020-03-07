@@ -25,6 +25,8 @@
 
 ## 试说源码 <a id="learning"></a>
 
+* [Redux](learning/redux/README.md)
+  * [Redux-1](learning/redux/redux-1.md)
 * [试说React源码](learning/shi-shuo-react-yuan-ma/README.md)
   * [ReactChildren.js](learning/shi-shuo-react-yuan-ma/reactchildren.js.md)
   * [ReactBaseClass.js](learning/shi-shuo-react-yuan-ma/reactbaseclass.js.md)
@@ -39,6 +41,7 @@
 * [HTTP6-HTTP首部](http/http6http-shou-bu.md)
 * [HTTP7-HTTPS](http/http7-https.md)
 * [HTTP8-确认访问用户身份的认证](http/http8-que-ren-fang-wen-yong-hu-shen-fen-de-ren-zheng.md)
+* [HTTP-9-基于HTTP的功能追加协议](http/http9-ji-yu-http-de-gong-neng-zhui-jia-xie-yi.md)
 
 ## 项目问题
 
