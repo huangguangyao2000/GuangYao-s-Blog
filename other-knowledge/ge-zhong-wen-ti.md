@@ -1,4 +1,4 @@
-# 各种问题
+# 问答
 
 ### html语义化
 
@@ -153,13 +153,13 @@ XSS\(跨站脚本攻击\)，恶意的注入html代码，其他用户访问时，
 * 两端进行**输入格式检查**
 * 通过编码转义的方式进行输出检查
 
-  **CSRF\(攻击跨站请求伪造\)**
+### **CSRF\(攻击跨站请求伪造\)**
 
-  **特点：**
+**特点：**
 
-  重要操作的所有参数都是可以被攻击者猜测到的。攻击者预测出URL的所有参数与参数值，才能成功地构造一个伪造的请求。
+重要操作的所有参数都是可以被攻击者猜测到的。攻击者预测出URL的所有参数与参数值，才能成功地构造一个伪造的请求。
 
-  **防御手段：**
+**防御手段：**
 
 * token验证机制，比如请求数据字段中添加一个token，响应请求时校验其有效性
 * 用户操作限制，比如验证码（繁琐，用户体验差）
@@ -244,11 +244,39 @@ require('http').createServer((req,res)=>{
 console.log('启动服务')
 ```
 
+服务器端设置Access-Control-Allow-Origin就可开启CORS，该属性表示哪些域名可以访问资源，如果设置通配符则表示所有网站都可以访问资源。
+
 **优点**
 
 1. 使用方便，更为安全
 2. 支持POST请求方式
 3. 兼容性问题，仅支持IE10以上
+
+#### document.domain
+
+只能用于二级域名相同的情况，如`a.test.com b.test.com`
+
+只需给页面添加document.domain = 'test.com'表示二级域名就可跨域。
+
+#### postMessage
+
+通常用于获取嵌入页面中的第三方页面上数据。一个页面发送消息，另一个页面判断来源并接收消息。
+
+```javascript
+//发送消息端
+window.parent.postMessage('message','http://test.com');
+
+//接收消息端
+var mc = new MessageChannel();
+mc.addEventListener('message',(event)=>{
+    var origin = event.origin || event.originEvent.origin;
+    if(origin === 'http://test.com'){
+        console.log(‘验证通过’)
+    }
+})
+```
+
+MessageChannel接口允许我们创建一个新的消息通道，并通过它的两个MessagePort属性发送数据。
 
 ### Node Event Loop:6个阶段
 
