@@ -1,4 +1,4 @@
-# index
+# JS-DOM
 
 ## _**DOM**_
 

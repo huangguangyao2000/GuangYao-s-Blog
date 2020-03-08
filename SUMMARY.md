@@ -9,7 +9,7 @@
 * [JS——事件循环](javascript/qu-shuo-js-shi-jian-xun-huan.md)
 * [JS-BOM](javascript/js-bom.md)
 * [JS-客户端检测](javascript/js-ke-hu-duan-jian-ce.md)
-* [index](javascript/js-dom.md)
+* [JS-DOM](javascript/js-dom.md)
 
 ## 细节之处见功夫
 
