@@ -28,7 +28,7 @@
 
 ### HTTP+加密+认证+完整性保护=HTTPS
 
-#### HTTP+加密+认证+完整性保护=HTTPS
+超文本传输安全协议，HTTPS是基于HTTP协议的，使用TLS/SSL进行数据加密。
 
 #### 身披SSL外壳的HTTP
 
