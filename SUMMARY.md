@@ -10,6 +10,7 @@
 * [JS-BOM](javascript/js-bom.md)
 * [JS-客户端检测](javascript/js-ke-hu-duan-jian-ce.md)
 * [JS-DOM](javascript/js-dom.md)
+* [JS—DOM2-and-DOM3](javascript/js-dom2-and-dom3.md)
 
 ## 细节之处见功夫
 
