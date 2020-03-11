@@ -1,6 +1,6 @@
-# Table of contents
+# 导航页
 
-* [导航页](README.md)
+* [导航页](./)
 
 ## JavaScript
 
@@ -30,9 +30,9 @@
 
 ## 试说源码 <a id="learning"></a>
 
-* [Redux](learning/redux/README.md)
-  * [Redux-1](learning/redux/redux-1.md)
-* [试说React源码](learning/shi-shuo-react-yuan-ma/README.md)
+* [Redux](https://github.com/huangguangyao2000/GuangYao-s-Blog/tree/456a7d9214916ad6bbcef73c394808285f0a3b4f/learning/redux/README.md)
+  * [Redux-1](https://github.com/huangguangyao2000/GuangYao-s-Blog/tree/456a7d9214916ad6bbcef73c394808285f0a3b4f/learning/redux/redux-1.md)
+* [试说React源码](learning/shi-shuo-react-yuan-ma/)
   * [ReactChildren.js](learning/shi-shuo-react-yuan-ma/reactchildren.js.md)
   * [ReactBaseClass.js](learning/shi-shuo-react-yuan-ma/reactbaseclass.js.md)
 
