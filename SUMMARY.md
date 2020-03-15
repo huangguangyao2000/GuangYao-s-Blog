@@ -4,13 +4,15 @@
 
 ## JavaScript
 
-* [Untitled](javascript/untitled.md)
+* [JS-JSON](javascript/untitled.md)
 * [JS——原型及原型链](javascript/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
 * [JS——事件循环](javascript/qu-shuo-js-shi-jian-xun-huan.md)
 * [JS-BOM](javascript/js-bom.md)
 * [JS-客户端检测](javascript/js-ke-hu-duan-jian-ce.md)
 * [JS-DOM](javascript/js-dom.md)
+* [JS-事件](javascript/js-shi-jian.md)
 * [JS-防抖](javascript/js-fang-dou.md)
+* [JS-表单脚本](javascript/js-biao-dan-jiao-ben.md)
 
 ## 细节之处见功夫
 
