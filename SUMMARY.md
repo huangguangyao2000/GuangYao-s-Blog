@@ -4,7 +4,7 @@
 
 ## JavaScript
 
-* [JS-JSON](javascript/untitled.md)
+* [JS-JSON](javascript/js-json.md)
 * [JS——原型及原型链](javascript/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
 * [JS——事件循环](javascript/qu-shuo-js-shi-jian-xun-huan.md)
 * [JS-BOM](javascript/js-bom.md)
@@ -51,7 +51,7 @@
 * [HTTP8-确认访问用户身份的认证](http/http8-que-ren-fang-wen-yong-hu-shen-fen-de-ren-zheng.md)
 * [HTTP-9-基于HTTP的功能追加协议](http/http9-ji-yu-http-de-gong-neng-zhui-jia-xie-yi.md)
 * [HTTP-10—DNS细说](http/http10dns-xi-shuo.md)
-* [HTTP-11-补充](http/untitled.md)
+* [HTTP-11-补充](http/http11-bu-chong.md)
 
 ## 项目问题
 
