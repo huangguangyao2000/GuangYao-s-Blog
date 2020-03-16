@@ -53,6 +53,7 @@
 * [HTTP-10—DNS细说](http/http10dns-xi-shuo.md)
 * [HTTP-11-补充](http/http11-bu-chong.md)
 * [HTTP-12-连接管理](http/http12-lian-jie-guan-li.md)
+* [HTTP-13-HTTP报文](http/http13http-bao-wen.md)
 
 ## 项目问题
 
