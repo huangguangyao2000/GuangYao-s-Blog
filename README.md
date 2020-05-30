@@ -1,8 +1,6 @@
 # 导航页
 
-## 
-
-## Table of contents
+## 导航页
 
 * [导航页](README.md)
 
@@ -13,7 +11,7 @@
   * [JS-事件](javascript/professional-javascript-for-web-developers/js-shi-jian.md)
   * [JS-DOM](javascript/professional-javascript-for-web-developers/js-dom.md)
   * [JS-客户端检测](javascript/professional-javascript-for-web-developers/js-ke-hu-duan-jian-ce/README.md)
-    * [JS-表单脚本](javascript/professional-javascript-for-web-developers/js-ke-hu-duan-jian-ce/js-biao-dan-jiao-ben.md)
+  * [JS-表单脚本](javascript/professional-javascript-for-web-developers/js-ke-hu-duan-jian-ce/js-biao-dan-jiao-ben.md)
   * [JS-BOM](javascript/professional-javascript-for-web-developers/js-bom.md)
   * [JS——原型及原型链](javascript/professional-javascript-for-web-developers/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
   * [JS——事件循环](javascript/professional-javascript-for-web-developers/qu-shuo-js-shi-jian-xun-huan.md)
