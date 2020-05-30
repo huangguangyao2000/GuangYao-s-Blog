@@ -5,24 +5,24 @@
 ## JavaScript
 
 * [Untitled]()
-* [JS——原型及原型链](javascript/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
-* [JS——事件循环](javascript/qu-shuo-js-shi-jian-xun-huan.md)
-* [JS-BOM](javascript/js-bom.md)
-* [JS-客户端检测](javascript/js-ke-hu-duan-jian-ce.md)
-* [JS-DOM](javascript/js-dom.md)
+* [JS——原型及原型链](javascript/professional-javascript-for-web-developers/qu-shuo-js-yuan-xing-ji-yuan-xing-lian.md)
+* [JS——事件循环](javascript/professional-javascript-for-web-developers/qu-shuo-js-shi-jian-xun-huan.md)
+* [JS-BOM](javascript/professional-javascript-for-web-developers/js-bom.md)
+* [JS-客户端检测](javascript/professional-javascript-for-web-developers/js-ke-hu-duan-jian-ce/)
+* [JS-DOM](javascript/professional-javascript-for-web-developers/js-dom.md)
 
 ## 细节之处见功夫
 
-* [2020-2-23](xi-jie-zhi-chu-jian-gong-fu/2020-2-23.md)
-* [2020-2-22](xi-jie-zhi-chu-jian-gong-fu/2020-2-22.md)
-* [2020-3-8](xi-jie-zhi-chu-jian-gong-fu/2020-3-8.md)
+* [2020-2-23]()
+* [2020-2-22]()
+* [2020-3-8]()
 
 ## 杂学细说 <a id="other-knowledge"></a>
 
-* [前缀、中缀、后缀表达式](other-knowledge/qian-zhui-zhong-zhui-hou-zhui-biao-da-shi.md)
-* [问答](other-knowledge/ge-zhong-wen-ti.md)
-* [问答](other-knowledge/wen-da.md)
-* [问答](other-knowledge/wen-da-1.md)
+* [前缀、中缀、后缀表达式]()
+* [问答]()
+* [问答]()
+* [问答]()
 
 ## HTML
 
@@ -32,9 +32,9 @@
 
 * [Redux](https://github.com/huangguangyao2000/GuangYao-s-Blog/tree/456a7d9214916ad6bbcef73c394808285f0a3b4f/learning/redux/README.md)
   * [Redux-1](https://github.com/huangguangyao2000/GuangYao-s-Blog/tree/456a7d9214916ad6bbcef73c394808285f0a3b4f/learning/redux/redux-1.md)
-* [试说React源码](learning/shi-shuo-react-yuan-ma/)
-  * [ReactChildren.js](learning/shi-shuo-react-yuan-ma/reactchildren.js.md)
-  * [ReactBaseClass.js](learning/shi-shuo-react-yuan-ma/reactbaseclass.js.md)
+* [试说React源码]()
+  * [ReactChildren.js]()
+  * [ReactBaseClass.js]()
 
 ## HTTP
 

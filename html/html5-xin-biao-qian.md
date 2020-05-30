@@ -86,7 +86,9 @@ video元素支持三种视频格式——Ogg，MPEG4，WebM
       <td style="text-align:left">&#x8BBE;&#x7F6E;&#x89C6;&#x9891;&#x64AD;&#x653E;&#x5668;&#x7684;&#x5BBD;&#x5EA6;&#x3002;</td>
     </tr>
   </tbody>
-</table>## &lt;math&gt;
+</table>
+
+## &lt;math&gt;
 
 数学标记语言，是一种基于XML（标准通用标记语言的子集）的标准
 
