@@ -97,3 +97,13 @@ var b = new ProxySingletonCreateDiv('b');
 console.log(a === b);
 ```
 
+### 惰性单例
+
+[codesandbox实现惰性单例]([https://codesandbox.io/s/strange-morning-8jxyr?file=/%E5%88%86%E7%A6%BB%E9%80%BB%E8%BE%91-%E6%8F%90%E5%8F%96%E5%87%BAgetSingle%E5%87%BD%E6%95%B0.html]%28https://codesandbox.io/s/strange-morning-8jxyr?file=/分离逻辑-提取出getSingle函数.html%29)
+
+
+
+
+
+
+
