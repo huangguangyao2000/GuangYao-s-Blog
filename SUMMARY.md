@@ -29,6 +29,7 @@
   * [解构赋值](javascript/es6/jie-gou-fu-zhi.md)
 * [JavaScript设计模式](javascript/javascript-she-ji-mo-shi/README.md)
   * [this+call+apply](javascript/javascript-she-ji-mo-shi/this+call+apply.md)
+  * [策略模式](javascript/javascript-she-ji-mo-shi/ce-lve-mo-shi.md)
   * [单例模式](javascript/javascript-she-ji-mo-shi/dan-li-mo-shi.md)
   * [闭包和高阶函数](javascript/javascript-she-ji-mo-shi/bi-bao-he-gao-jie-han-shu.md)
   * [面向对象的JavaScript](javascript/javascript-she-ji-mo-shi/mian-xiang-dui-xiang-de-javascript.md)
