@@ -28,6 +28,7 @@
   * [数组的扩展](javascript/es6/shu-zu-de-kuo-zhan.md)
   * [解构赋值](javascript/es6/jie-gou-fu-zhi.md)
 * [JavaScript设计模式](javascript/javascript-she-ji-mo-shi/README.md)
+  * [命令模式](javascript/javascript-she-ji-mo-shi/ming-ling-mo-shi.md)
   * [this+call+apply](javascript/javascript-she-ji-mo-shi/this+call+apply.md)
   * [策略模式](javascript/javascript-she-ji-mo-shi/ce-lve-mo-shi.md)
   * [单例模式](javascript/javascript-she-ji-mo-shi/dan-li-mo-shi.md)
@@ -40,6 +41,9 @@
   * [3.新手的第一堂函数课：定义与参数](javascript/javascript-ren-zhe-mi-ji/3.-xin-shou-de-di-yi-tang-han-shu-ke-ding-yi-yu-can-shu.md)
   * [4.函数进阶](javascript/javascript-ren-zhe-mi-ji/4.-han-shu-jin-jie.md)
   * [5.闭包和作用域](javascript/javascript-ren-zhe-mi-ji/5.-bi-bao-he-zuo-yong-yu.md)
+
+---
+
 * [浏览器相关（极客网课一门）](https://github.com/huangguangyao2000/Browser)
 * [React（博文整理及源码分析流程图，源码网课一门）](https://github.com/huangguangyao2000/React)
 * [操作系统（B站王道课程）](https://github.com/huangguangyao2000/OS)
